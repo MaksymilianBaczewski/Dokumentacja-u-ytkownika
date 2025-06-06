@@ -1,6 +1,6 @@
 **DOKUMENTACJA UŻYTKOWNIKA**  
 Dokumentacja Użytkownika aplikacji **Visual Studio Code**  
-Autor: Maksymilian Baczewski  
+Autorzy: Maksymilian Baczewski, Kinga Sulewska
 Data: **10.05.2025**
 
 **Spis treści:**
